@@ -1,6 +1,6 @@
 # About This App
 
-This is a frontend application has been made with power of React.js, which is using axios library to handle the http response. A list of users in github can be found using this application just by searching them in search box. Technologies used - HTML5, CSS3, JavaScript, React.js, JSON, axios, REST APIs.
+This is a frontend application has been made with power of React.js, which is using axios library to handle the http response. A list of users in github can be found using this application just by searching them in search box. Technologies used - HTML5, CSS3, JavaScript, React.js [React Fundamentals (Components, props, state, events, passing props, react router, react-router-dom@5.0.0), React Hooks (useState, useEffect, useContext, useReducer, useRef) in real projects, and Context API & App Level State], JSON, axios, REST APIs.
 
 Note - This is just a demo project. This can be used for educational purposes, can't be used for business purpose.
 
